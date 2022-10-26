@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "574412546172",
+    "project_id": "chemsim-673df",
+    "storage_bucket": "chemsim-673df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574412546172:android:df19f300dbe09eccd8e9f9",
+        "android_client_info": {
+          "package_name": "com.okello.chemsim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574412546172-q5oh3qnevr3apcvenq51i4qtnsqqfkv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaOAju13PlZYshMDC0ZxM-c71lVgWNr5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574412546172-q5oh3qnevr3apcvenq51i4qtnsqqfkv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
